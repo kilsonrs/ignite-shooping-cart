@@ -2,27 +2,27 @@
   "stock": [
     {
       "id": 1,
-      "amount": 3
+      "amount": 1095
     },
     {
       "id": 2,
-      "amount": 5
+      "amount": 1000
     },
     {
       "id": 3,
-      "amount": 2
+      "amount": 1000
     },
     {
       "id": 4,
-      "amount": 1
+      "amount": 1000
     },
     {
       "id": 5,
-      "amount": 5
+      "amount": 998
     },
     {
       "id": 6,
-      "amount": 10
+      "amount": 1000
     }
   ],
   "products": [
@@ -46,20 +46,20 @@
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
+      "title": "Tênis VR Caminhada Confortável",
+      "price": 129.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
+      "title": "Tênis Adidas Duramo Lite 3.0",
+      "price": 239.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
+      "title": "Tênis de Caminhada Longa",
+      "price": 189.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     }
   ]
